@@ -1,2 +1,9 @@
+nav ul li{
+	display: inline-flex;
+	margin:10px;
+}
 
+nav ul li a{
+	text-decoration: none;
+}
 /* Your CSS Code here. */
